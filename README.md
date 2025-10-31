@@ -596,8 +596,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🔗 Links
 
-- **Homepage:** [https://github.com/skilzy/skilzy-python](https://github.com/skilzy/skilzy-python)
-- **Issues:** [https://github.com/skilzy/skilzy-python/issues](https://github.com/skilzy/skilzy-python/issues)
+- **Homepage:** [https://github.com/skilzy-ai/skilzy-python](https://github.com/skilzy-ai/skilzy-python)
+- **Issues:** [https://github.com/skilzy-ai/skilzy-python/issues](https://github.com/skilzy-ai/skilzy-python/issues)
 - **PyPI:** [https://pypi.org/project/skilzy/](https://pypi.org/project/skilzy/)
 - **Registry:** [https://skilzy.ai](https://skilzy.ai)
 
@@ -606,4 +606,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 💡 Need Help?
 
 - 📖 Check the [documentation](https://docs.skilzy.ai)
-- 🐛 Report bugs on [GitHub Issues](https://github.com/skilzy/skilzy-python/issues)
+- 🐛 Report bugs on [GitHub Issues](https://github.com/skilzy-ai/skilzy-python/issues)
